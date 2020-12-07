@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01b0d950-3374-4671-b59b-8ee5394c7d85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MAPS/src/CustomeMap.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SORT/src/CharactersCollection.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SORT/src/LinkedLists.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SORT/src/NumbersCollection.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SORT/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SORT/src/sorter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAPS/src/Company.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MAPS/src/Company.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MAPS" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="jbn2jr08" />
+  </component>
+  <component name="ProjectId" id="1kTDpmfSGH5peciWr6F3pQ6HUlG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SORT/build" />
+      <recent name="$PROJECT_DIR$/SORT/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/MAPS/src" />
+      <recent name="$PROJECT_DIR$/MAPS" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01b0d950-3374-4671-b59b-8ee5394c7d85" name="Default Changelist" comment="" />
+      <created>1605715874333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605715874333</updated>
+      <workItem from="1605715881684" duration="1290000" />
+      <workItem from="1605717311955" duration="1548000" />
+      <workItem from="1605718892339" duration="477000" />
+      <workItem from="1605720433950" duration="1507000" />
+      <workItem from="1605796827455" duration="5777000" />
+      <workItem from="1605859605554" duration="94000" />
+      <workItem from="1605938037925" duration="10331000" />
+      <workItem from="1606313873577" duration="329000" />
+      <workItem from="1606633443772" duration="9983000" />
+      <workItem from="1607001079550" duration="14600000" />
+    </task>
+    <task id="LOCAL-00001" summary="Course(Typescript: The Complete Developer's Guide [2020]): 9-49 - 9-60">
+      <created>1605803945980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605803945980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Course(Typescript: The Complete Developer's Guide [2020]): 9-49 - 9-60" />
+    <option name="LAST_COMMIT_MESSAGE" value="Course(Typescript: The Complete Developer's Guide [2020]): 9-49 - 9-60" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1577" y="-734" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605799748265">
+      <screen x="-1023" y="-1080" width="3840" height="1080" />
+    </state>
+    <state x="1577" y="-734" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050/-1023.-1080.3840.1080@-1023.-1080.3840.1080" timestamp="1605799748265" />
+    <state x="-1023" y="-1080" key="FileDocumentManager.FileCacheConflict" timestamp="1605717525873">
+      <screen x="-1023" y="-1055" width="3840" height="1055" />
+    </state>
+    <state x="-1023" y="-1080" key="FileDocumentManager.FileCacheConflict/0.0.1680.1050/-1023.-1080.3840.1080@-1023.-1080.3840.1080" timestamp="1605717525873" />
+    <state x="1369" y="-904" key="SettingsEditor" timestamp="1605716432502">
+      <screen x="-1023" y="-1080" width="3840" height="1080" />
+    </state>
+    <state x="1369" y="-904" key="SettingsEditor/0.0.1680.1050/-1023.-1080.3840.1080@-1023.-1080.3840.1080" timestamp="1605716432502" />
+    <state x="1228" y="-803" key="Vcs.Push.Dialog.v2" timestamp="1605803996057">
+      <screen x="-1023" y="-1080" width="3840" height="1080" />
+    </state>
+    <state x="1228" y="-803" key="Vcs.Push.Dialog.v2/0.0.1680.1050/-1023.-1080.3840.1080@-1023.-1080.3840.1080" timestamp="1605803996057" />
+    <state x="1497" y="-802" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1605803872292">
+      <screen x="-1023" y="-1080" width="3840" height="1080" />
+    </state>
+    <state x="1497" y="-802" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1680.1050/-1023.-1080.3840.1080@-1023.-1080.3840.1080" timestamp="1605803872292" />
+    <state x="1655" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605804034279">
+      <screen x="-1023" y="-1080" width="3840" height="1080" />
+    </state>
+    <state x="1655" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050/-1023.-1080.3840.1080@-1023.-1080.3840.1080" timestamp="1605804034279" />
+    <state x="2548" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1607312551604">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="2548" y="241" width="670" height="676" key="search.everywhere.popup/0.0.3840.1080/-1680.0.1680.1050@0.0.3840.1080" timestamp="1607312551604" />
+  </component>
+</project>
