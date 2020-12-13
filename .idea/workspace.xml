@@ -34,13 +34,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01b0d950-3374-4671-b59b-8ee5394c7d85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MAPS/src/CustomeMap.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SORT/src/CharactersCollection.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SORT/src/LinkedLists.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SORT/src/NumbersCollection.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SORT/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SORT/src/sorter.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAPS/src/Company.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MAPS/src/Company.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stats/src/CsvFileReader.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stats/src/MatchData.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stats/src/MatchReader.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stats/src/MatchResult.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stats/src/Summary.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stats/src/analyzers/WinsAnalysis.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stats/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stats/src/inheritance/CsvFileReader.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stats/src/inheritance/MatchReader.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stats/src/reportTarget/ConsoleReporter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stats/src/reportTarget/HtmlReport.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stats/src/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +65,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MAPS" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MacroExpansionManager">
@@ -88,17 +94,17 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/SORT/build" />
-      <recent name="$PROJECT_DIR$/SORT/src" />
+      <recent name="$PROJECT_DIR$/Stats/src/reportTarget" />
+      <recent name="$PROJECT_DIR$/Stats/src/inheritance" />
+      <recent name="$PROJECT_DIR$/Stats" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/MAPS/src" />
-      <recent name="$PROJECT_DIR$/MAPS" />
+      <recent name="$PROJECT_DIR$/SORT/build" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -119,7 +125,8 @@
       <workItem from="1605938037925" duration="10331000" />
       <workItem from="1606313873577" duration="329000" />
       <workItem from="1606633443772" duration="9983000" />
-      <workItem from="1607001079550" duration="14600000" />
+      <workItem from="1607001079550" duration="17452000" />
+      <workItem from="1607757492503" duration="18659000" />
     </task>
     <task id="LOCAL-00001" summary="Course(Typescript: The Complete Developer's Guide [2020]): 9-49 - 9-60">
       <created>1605803945980</created>
@@ -128,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605803945980</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Course(Typescript: The Complete Developer's Guide [2020]): 9-61 - 10 - 95">
+      <created>1607314123616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607314123616</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +174,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Course(Typescript: The Complete Developer's Guide [2020]): 9-49 - 9-60" />
-    <option name="LAST_COMMIT_MESSAGE" value="Course(Typescript: The Complete Developer's Guide [2020]): 9-49 - 9-60" />
+    <MESSAGE value="Course(Typescript: The Complete Developer's Guide [2020]): 9-61 - 10 - 95" />
+    <option name="LAST_COMMIT_MESSAGE" value="Course(Typescript: The Complete Developer's Guide [2020]): 9-61 - 10 - 95" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1577" y="-734" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605799748265">
@@ -171,14 +186,19 @@
       <screen x="-1023" y="-1055" width="3840" height="1055" />
     </state>
     <state x="-1023" y="-1080" key="FileDocumentManager.FileCacheConflict/0.0.1680.1050/-1023.-1080.3840.1080@-1023.-1080.3840.1080" timestamp="1605717525873" />
+    <state x="2471" y="287" key="IDE.errors.dialog" timestamp="1607314179456">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="2471" y="287" key="IDE.errors.dialog/0.0.3840.1080/-1680.0.1680.1050@0.0.3840.1080" timestamp="1607314179456" />
     <state x="1369" y="-904" key="SettingsEditor" timestamp="1605716432502">
       <screen x="-1023" y="-1080" width="3840" height="1080" />
     </state>
     <state x="1369" y="-904" key="SettingsEditor/0.0.1680.1050/-1023.-1080.3840.1080@-1023.-1080.3840.1080" timestamp="1605716432502" />
-    <state x="1228" y="-803" key="Vcs.Push.Dialog.v2" timestamp="1605803996057">
-      <screen x="-1023" y="-1080" width="3840" height="1080" />
+    <state x="2251" y="277" key="Vcs.Push.Dialog.v2" timestamp="1607314132235">
+      <screen x="0" y="0" width="3840" height="1080" />
     </state>
     <state x="1228" y="-803" key="Vcs.Push.Dialog.v2/0.0.1680.1050/-1023.-1080.3840.1080@-1023.-1080.3840.1080" timestamp="1605803996057" />
+    <state x="2251" y="277" key="Vcs.Push.Dialog.v2/0.0.3840.1080/-1680.0.1680.1050@0.0.3840.1080" timestamp="1607314132235" />
     <state x="1497" y="-802" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1605803872292">
       <screen x="-1023" y="-1080" width="3840" height="1080" />
     </state>
