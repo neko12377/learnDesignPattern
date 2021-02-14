@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "name": "Lokoko",
+      "age": 70,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Lokoko",
+      "age": 70
+    },
+    {
+      "name": "Lokoko",
+      "age": 70,
+      "id": 3
+    },
+    {
+      "name": "Lokoko",
+      "age": 70,
+      "id": 4
+    },
+    {
+      "name": "Lokoko",
+      "age": 70,
+      "id": 5
+    },
+    {
+      "name": "Lokoko",
+      "age": 70,
+      "id": 6
+    }
+  ],
+  "doggy": []
+}
